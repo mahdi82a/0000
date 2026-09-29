@@ -1,0 +1,8 @@
+name = "0000"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "settings", id = "d91d75e024824c78bf1aa925348757b1" }
+]
